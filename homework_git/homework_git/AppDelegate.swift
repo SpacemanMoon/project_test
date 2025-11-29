@@ -27,6 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
     // не трогал я комментарии
+    // приходится разговаривать с самим собой
     }
 
 
